@@ -1,1 +1,2 @@
 # Project-from-course-3
+First I load all the data, then in first exercise I bind train and test data by rows and I have 3 new data set, then I merged this data set by bolumns. In 2 ex by select function I choose subject, code and all columns that have in name word mean or std. In 3 ex I change variables in column code to full names. By gsub gunction I change all shortcuts in my column names to full names. In last ex thanks to group and summarise_all function I create new dataset.
